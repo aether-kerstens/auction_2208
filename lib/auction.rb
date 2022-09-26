@@ -6,4 +6,7 @@ class Auction
   def add_item(item)
     @items << item
   end
+  def add_bid(attendee, bid)
+    @bids 
+
 end
